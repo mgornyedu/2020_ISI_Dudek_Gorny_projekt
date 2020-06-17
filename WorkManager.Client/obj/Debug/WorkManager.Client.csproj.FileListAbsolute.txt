@@ -1,0 +1,119 @@
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.pdb
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csprojAssemblyReference.cache
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csproj.CoreCompileInputs.cache
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.pdb
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\netstandard.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Interactive.Async.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Remotion.Linq.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Collections.Immutable.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Options.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Interactive.Async.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Remotion.Linq.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Options.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csproj.CopyComplete
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Config\Config.ini
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.dll.config
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Newtonsoft.Json.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Data.Models.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\DocumentFormat.OpenXml.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Memory.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Numerics.Vectors.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Buffers.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Data.Models.pdb
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.pdb
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.dll.config
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\Newtonsoft.Json.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\DocumentFormat.OpenXml.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Memory.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Numerics.Vectors.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\System.Buffers.xml
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WPFTools.Core.dll
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WPFTools.Core.pdb
+E:\DataComplex\Projects\WorkManager\WorkManager.Client\bin\Debug\WPFTools.Core.dll.config
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Config\Config.ini
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.dll.config
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Client.pdb
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Newtonsoft.Json.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Data.Models.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\DocumentFormat.OpenXml.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\netstandard.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Interactive.Async.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Remotion.Linq.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Collections.Immutable.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Options.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Memory.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Numerics.Vectors.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Buffers.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Data.Models.pdb
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.pdb
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WorkManager.Server.Contracts.dll.config
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Newtonsoft.Json.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WPFTools.Core.pdb
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\WPFTools.Core.dll.config
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\DocumentFormat.OpenXml.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Interactive.Async.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Remotion.Linq.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\Microsoft.Extensions.Options.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Memory.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Numerics.Vectors.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\bin\Debug\System.Buffers.xml
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csprojAssemblyReference.cache
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csproj.CoreCompileInputs.cache
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.csproj.CopyComplete
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.dll
+E:\KMOneDrive\OneDrive\PK\Studia\Semestr 5\TO\Projekt\WorkManager\WorkManager.Client\obj\Debug\WorkManager.Client.pdb

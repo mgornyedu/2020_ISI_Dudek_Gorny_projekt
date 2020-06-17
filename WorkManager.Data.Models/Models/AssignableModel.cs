@@ -1,0 +1,14 @@
+﻿using WPFTools.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace WorkManager.Data.Models
+{
+    public class AssignableModel : EFModel<int>
+    {
+        public string Name { get; set; }
+    }
+}
